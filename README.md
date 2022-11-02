@@ -1,6 +1,6 @@
 # Pattern-Recognition
 
-[hw1] implement linear regression by using only NumPy  
-[hw2] implement Fisher’s linear discriminant by using only Numpy  
-[hw3] implement the Decision Tree, AdaBoost and Random Forest algorithm by using only NumPy  
-[hw4] implement the cross-validation and grid search using only NumPy
+hw1: Implement Linear Regression by Using only NumPy  
+hw2: Implement Fisher’s Linear Discriminant by Using only Numpy  
+hw3: Implement the Decision Tree, AdaBoost and Random Forest Algorithm by Using only NumPy  
+hw4: Implement the Cross-Validation and Grid Search by Using only NumPy
